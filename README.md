@@ -1,3 +1,3 @@
 # Submission For The WebIt hackathon
 
-## Deployment Link:  https://webit-hackathon-oytp.vercel.app/
+## Deployment Link:  https://webit-competition.vercel.app/app
